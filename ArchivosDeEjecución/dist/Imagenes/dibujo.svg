@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="300mm"
+   viewBox="0 0 400 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="720.54552"
+     inkscape:cy="535.28192"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="400"
+       height="300"
+       id="page1"
+       margin="0 0 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.75225226;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(133.12546,-5.7880633)">
+    <g
+       id="g4"
+       transform="translate(1.0852619,29.302071)">
+      <rect
+         style="fill:#640000;fill-opacity:1;stroke:#000000;stroke-width:5.426;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="93.34462"
+         height="90.81234"
+         x="-5.6132369"
+         y="35.626713" />
+      <rect
+         style="fill:#000064;fill-opacity:1;stroke:#000000;stroke-width:5.426;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-7"
+         width="93.34462"
+         height="90.81234"
+         x="51.973515"
+         y="78.785484" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.5349px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#cfff00;fill-opacity:0.883895;stroke:#dbffab;stroke-width:87.8432;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0"
+       x="-43.215675"
+       y="152.8347"
+       id="text4"
+       transform="scale(1.0097595,0.99033482)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#cfff00;fill-opacity:0.883895;stroke:#dbffab;stroke-width:87.8432;stroke-opacity:0"
+         x="-43.215675"
+         y="152.8347">HiCube</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+cd C:\Users\User\Desktop\-videojuego>
+
+pyinstaller --onefile --noconsole --icon="C:\Users\User\Documents\-videojuego\Imagenes\Icono.ico" HiCube.py
+
+pyinstaller --onefile --noconsole --icon="C:\Users\User\Desktop\-videojuego\Imagenes\Icono.ico" HiCube.py
